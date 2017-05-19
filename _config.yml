@@ -1,9 +1,9 @@
 # Basic
-title: Neo 阿牛
-subtitle: 这个人想写点儿字
-welcome_message: <a>喊我阿牛就好</a>
+title: 阿牛
+subtitle: 在这儿，写点字
+welcome_message: <a>价值观民粹，用词刻薄，每一个滥用文字排列技巧的背后，都掩盖着自己贫瘠的视角</a>
 description: 
-creator: <a href="http://onev.cat">@onevcat</a>
+#creator: <a href="http://onev.cat">@onevcat</a>
 
 
 permalink: /:year/:month/:title/
@@ -12,11 +12,11 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: 
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: home
     description: Visit blog
 
 # Navigation buttons in the front page.
@@ -30,8 +30,8 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: vno-jekyll
+#comment:
+ #   disqus: vno-jekyll
     # duoshuo: 
     
 # Social
