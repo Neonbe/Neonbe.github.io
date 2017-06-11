@@ -20,8 +20,8 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
-#nav:
-   # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+nav:
+    - {title: 读书笔记, description: 阿牛最近的读书笔记, url: 'http://read.neo123.me'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
