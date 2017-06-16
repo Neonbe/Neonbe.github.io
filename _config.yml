@@ -33,11 +33,11 @@ paginate_path: "page/:num/"
 #comment:
  #   disqus: vno-jekyll
     # duoshuo: 
-    
+
 # Social
-#social:
+social:
 #    weibo: onevcat
- #   github: onevcat
+#    github: onevcat
 #    twitter: onevcat
 #    gplus: 107108267983477358170
     mail: wojiaoaniu@gmail.com
@@ -46,4 +46,3 @@ paginate_path: "page/:num/"
 ga:
     # id: your_ga_id
     # host: your_host
-
