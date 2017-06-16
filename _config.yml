@@ -2,16 +2,48 @@
 title: 阿牛写字的地方
 subtitle: 价值观民粹，用词刻薄
 welcome_message: <a>每一个滥用文字排列技巧的背后，都掩盖着自己贫瘠的视角</a>
+#description: 
+#creator: <a href="http://onev.cat">@onevcat</a>
 
 permalink: /:year/:month/:title/
+
+# Format
 highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: slate
+
+
+# The blog button should not be removed.
 blog_button:
     title: 文章
     description: Visit blog
+
+# Navigation buttons in the front page.
 nav:
     - {title: 读书笔记, description: 最近的读书, url: 'http://neo123.me'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
 gems: [jekyll-paginate]
 paginate: 10
 paginate_path: "page/:num/"
+
+# Comment
+#comment:
+ #   disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+#social:
+#    weibo: onevcat
+ #   github: onevcat
+#    twitter: onevcat
+#    gplus: 107108267983477358170
+    mail: wojiaoaniu@gmail.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
 
